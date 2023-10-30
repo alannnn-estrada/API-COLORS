@@ -72,4 +72,3 @@ This project is licensed under the ISC License.
 Feel free to contribute, report issues, or use the API in your own applications. If you have any questions or need further assistance, please don't hesitate to reach out to me.
 
 Thanks for using API-Colors!
-```
